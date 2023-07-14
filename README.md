@@ -3,6 +3,9 @@
 ## Competition address
 - [CCKS2023-PromptCBLUE中文医疗大模型评测基准—开源赛道](https://tianchi.aliyun.com/competition/entrance/532084/introduction?spm=a2c22.12281949.0.0.4c885d9b4WyXT4)
 
+## Dataset
+- [PromptCBLUE](https://github.com/michael-wzhu/PromptCBLUE.git)
+
 ## Fine-Tuning Methods
 - LoRA
   - Fine-tuning the low-rank adapters of the ChatGLM-6B model.
