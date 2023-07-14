@@ -1,0 +1,14 @@
+protobuf==3.19.1
+transformers==4.28.1
+trl
+cpm_kernels
+torch>=1.10
+gradio
+mdtex2html
+sentencepiece
+accelerate==0.19.0
+peft
+rouge-chinese
+scikit-learn
+jieba
+nltk
